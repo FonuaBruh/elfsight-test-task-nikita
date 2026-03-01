@@ -1,4 +1,5 @@
 {
+  "homepage": "https://FonuaBruh.github.io/elfsight-test-task-nikita/",
   "name": "elfsight-test-task",
   "version": "1.0.0",
   "private": true,
@@ -31,6 +32,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.0",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^6.3.0",
     "prettier": "2.2.0",
     "react-app-rewired": "^2.2.1"
   },
