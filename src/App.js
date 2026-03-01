@@ -4,7 +4,5 @@ import { MainPage } from './pages/MainPage';
 const router = createBrowserRouter([{ path: '/', element: <MainPage /> }]);
 
 export function App() {
-  return (
-    <RouterProvider router={router} basename="/elfsight-test-task-nikita" />
-  );
+  return <RouterProvider router={router} />;
 }
